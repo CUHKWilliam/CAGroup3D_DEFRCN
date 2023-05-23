@@ -1,0 +1,6 @@
+*.pkl
+*.ply
+*.so
+*.pth
+build/
+*.pyc
